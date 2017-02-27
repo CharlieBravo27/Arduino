@@ -1,9 +1,3 @@
-/*
-Turns on the LED according to sound level recorded by the sound sensor (HR11080 from geeetech).
-
-*/
-
-
 int led1 = 2;
 int led2 = 3;
 int led3 = 4;
